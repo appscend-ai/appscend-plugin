@@ -1,0 +1,29 @@
+{
+  "name": "appscend",
+  "version": "0.3.0",
+  "description": "AppScend in your coding agent: get iOS apps through Apple's App Review. AppScend's MCP server, its recipes as commands, skills that end with the same report, and a subagent for App Store work.",
+  "author": {
+    "name": "AppScend"
+  },
+  "keywords": [
+    "ios",
+    "app-store",
+    "app-review",
+    "testflight",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "interface": {
+    "displayName": "AppScend",
+    "shortDescription": "Get iOS apps through Apple's App Review",
+    "longDescription": "AppScend's MCP server and skills in Codex: what would get your iOS app rejected, fixes on branches, the App Store Connect setup, test runs, review notes, submitting, and answering a rejection. Anything that reaches Apple or money asks you first.",
+    "developerName": "AppScend",
+    "category": "Developer Tools",
+    "defaultPrompt": [
+      "What would get my iOS app rejected by App Review?",
+      "Take my app from its code to approved, step by step.",
+      "What should I do next on my app?"
+    ]
+  }
+}

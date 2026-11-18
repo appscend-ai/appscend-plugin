@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "appscend": {
+      "type": "http",
+      "url": "${APPSCEND_MCP_URL:-https://api.appscend.ai/mcp}"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "appscend",
+  "version": "0.3.0",
+  "description": "AppScend in your coding agent: get iOS apps through Apple's App Review. AppScend's MCP server, its recipes as commands, skills that end with the same report, and a subagent for App Store work.",
+  "author": {
+    "name": "AppScend"
+  },
+  "keywords": [
+    "ios",
+    "app-store",
+    "app-review",
+    "testflight",
+    "mcp"
+  ],
+  "license": "MIT"
+}
