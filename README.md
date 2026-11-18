@@ -16,12 +16,12 @@ Skills: get-approved, release. Commands (Claude Code and Cursor): get-approved, 
 
 Claude Code:
 
-    claude plugin marketplace add Turko123/appscend-plugin
+    claude plugin marketplace add appscend-ai/appscend-plugin
     claude plugin install appscend@appscend
 
 Codex:
 
-    codex plugin marketplace add Turko123/appscend-plugin
+    codex plugin marketplace add appscend-ai/appscend-plugin
 
 then install AppScend in Codex's plugin list.
 

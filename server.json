@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.Turko123/appscend",
+  "name": "io.github.appscend-ai/appscend",
   "title": "AppScend",
   "description": "Get iOS apps through Apple's App Review: checks, fixes on branches, test runs and submitting.",
   "version": "0.3.0",
@@ -22,7 +22,7 @@
     }
   ],
   "repository": {
-    "url": "https://github.com/Turko123/appscend-plugin",
+    "url": "https://github.com/appscend-ai/appscend-plugin",
     "source": "github"
   },
   "remotes": [
